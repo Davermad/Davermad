@@ -1,7 +1,3 @@
-# 💫 About Me:
-👋 Hi, I’m @Davermad<br>👀 I’m interested in backend-python development<br>🌱 I’m currently learning Django, FastAPI, SQLAlchemy, Pytest, Docker, Redis, Celery, Git<br>💞️ I’m looking to collaborate on open-source projects or vacancy in IT-company<br>📫 How to reach me: Gmail: danielwebd17@gmail.com or Telegram: @dan3ret
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danie.ltoga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielwebd17@gmail.com) 
 
